@@ -12,4 +12,10 @@
 
 seperti amplifier class ab pada umumnya. dokumentasi lengkap [disini](https://sound-au.com/project3a.htm)
 
+### PENTING!!
+
+schematic sepenuhnya milik Rod Elliott. hanya digunakan untuk tujuan pembelajaran. DILARANG KERAS MENJADIKAN PROJECT INI UNTUK KOMERSIAL sesuai hak cipta yang tertulis 
+
+### Copyright Notice
+"This article, including but not limited to all text and diagrams, is the intellectual property of Rod Elliott, and is © 2000-2009.  Reproduction or re-publication by any means whatsoever, whether electronic, mechanical or electro- mechanical, is strictly prohibited under International Copyright laws.  The author (Rod Elliott) grants the reader the right to use this information for personal use only, and further allows that one (1) copy may be made for reference while constructing the project.  Commercial use is prohibited without express written authorisation from Rod Elliott"
 
